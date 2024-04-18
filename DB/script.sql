@@ -1,6 +1,8 @@
 CREATE TABLE Client(
    IdClient INT IDENTITY,
    NomClient VARCHAR(50) NOT NULL,
+   username VARCHAR(50) NOT NULL,
+   password VARCHAR(50) NOT NULL,
    PRIMARY KEY(IdClient)
 );
 
@@ -14,11 +16,10 @@ CREATE TABLE Outil(
    PRIMARY KEY(IdOutil)
 );
 
-CREATE TABLE utillisateur(
+CREATE TABLE Admin(
    IdUser INT IDENTITY,
    username VARCHAR(50) NOT NULL,
    Password VARCHAR(50) NOT NULL,
-   Rôle INT NOT NULL,
    PRIMARY KEY(IdUser)
 );
 
