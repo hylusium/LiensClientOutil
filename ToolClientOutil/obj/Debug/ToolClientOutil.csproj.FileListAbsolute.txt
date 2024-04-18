@@ -84,3 +84,10 @@ C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\obj\Debu
 C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\obj\Debug\ToolClie.B9871E78.Up2Date
 C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\obj\Debug\ToolClientOutil.dll
 C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\obj\Debug\ToolClientOutil.pdb
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\EntityFramework.dll
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\EntityFramework.SqlServer.dll
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\Tool.Data.dll
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\Tool.Data.pdb
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\Tool.Data.dll.config
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\EntityFramework.xml
+C:\Users\hugod\OneDrive\Bureau\projetC#LiensCliensOutil\ToolClientOutil\bin\EntityFramework.SqlServer.xml
