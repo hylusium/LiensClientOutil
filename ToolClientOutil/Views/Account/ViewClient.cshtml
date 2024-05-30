@@ -1,4 +1,5 @@
-﻿
+﻿@model ToolClientOutil.Models.ViewClientModel
+
 @{
     ViewBag.Title = "Portail Client";
 }
@@ -8,6 +9,38 @@
 <h1>Bienvenue @Model.Email</h1>
 
 <div class="mainHeader">
-    <h2 class="d-flex justify-content-center align-items-center">mes projets</h2>
+    <h2 class="d-flex justify-content-center align-items-center">Mes projets</h2>
+</div>
 
+<div class="projectList">
+    @if (Model.Projects != null && Model.Projects.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nom de l'outil</th>
+                    <th>Version</th>
+                    <th>Date de mise à jour</th>
+                    <th>État</th>
+                    <th>Commentaire</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var project in Model.Projects)
+                {
+                    <tr>
+                        <td>@project.NomOutil</td>
+                        <td>@project.VersionOutil</td>
+                        <td>@project.DateMaj.ToShortDateString()</td>
+                        <td>@project.Etat</td>
+                        <td>@project.Commentaire</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Aucun projet trouvé.</p>
+    }
 </div>

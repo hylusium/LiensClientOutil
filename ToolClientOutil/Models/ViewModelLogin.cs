@@ -11,7 +11,6 @@ namespace ToolClientOutil.Models
 	public class ViewModelLogin
 	{
 		[Required(ErrorMessage = "L'adresse Mail est obligatoire")]
-		
 		public string Email { get; set; }
 
 		[DataType(DataType.Password)]

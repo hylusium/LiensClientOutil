@@ -135,10 +135,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\ManageClientsToolsModel.cs" />
+    <Compile Include="Models\ViewClientModel.cs" />
     <Compile Include="Models\ViewModelLogin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\AdminPanel.css" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -158,6 +161,7 @@
     <Content Include="Content\ClientStyleView.css" />
     <Content Include="Content\Index.css" />
     <Content Include="Content\Login.css" />
+    <Content Include="Content\Outils.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -212,9 +216,12 @@
     <Content Include="Views\TheForgottens\Nav.cshtml" />
     <Content Include="Views\Account\Profile.cshtml" />
     <Content Include="Views\Account\ViewClient.cshtml" />
+    <Content Include="Views\Account\MCT.cshtml" />
+    <Content Include="Views\Admins\AdminIndex.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Link\" />
     <Folder Include="Views\Login\" />
   </ItemGroup>
   <ItemGroup>

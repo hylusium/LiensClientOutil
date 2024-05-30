@@ -123,5 +123,9 @@ namespace ToolClientOutil.Controllers
             }
             base.Dispose(disposing);
         }
+        public ActionResult AdminIndex()
+        {
+            return View();
+        }
     }
 }

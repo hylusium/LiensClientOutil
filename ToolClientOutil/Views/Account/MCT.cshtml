@@ -1,0 +1,38 @@
+﻿@model ToolClientOutil.Models.ManageClientsToolsModel
+
+@{
+    ViewBag.Title = "Gérer les Clients et les Outils";
+}
+
+@Styles.Render("~/Content/ManageClientsTools.css")
+
+<h1>Gérer les Clients et les Outils</h1>
+
+<div>
+    <h2>Lier un client à un outil</h2>
+    @using (Html.BeginForm("LinkClientTool", "Account", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div>
+            <label for="clientId">Client</label>
+            <select id="clientId" name="clientId" class="form-control">
+                @foreach (var client in Model.Clients)
+                {
+                    <option value="@client.IdClient">@client.NomClient</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label for="toolId">Outil</label>
+            <select id="toolId" name="toolId" class="form-control">
+                @foreach (var tool in Model.Tools)
+                {
+                    <option value="@tool.IdOutil">@tool.NomOutil</option>
+                }
+            </select>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Lier</button>
+        </div>
+    }
+</div>

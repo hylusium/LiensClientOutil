@@ -3,65 +3,70 @@
 @{
     ViewBag.Title = "Create";
 }
+@Styles.Render("~/Content/Css")
+@Styles.Render("~/Content/Outils.css")
 
-<h2>Create</h2>
+<h2 class="Title">Create</h2>
 
 @using (Html.BeginForm()) 
 {
     @Html.AntiForgeryToken()
     
-    <div class="form-horizontal">
+    <div class="formOutline">
         <h4>Outil</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-        <div class="form-group">
-            @Html.LabelFor(model => model.NomOutil, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
+        <div class=" OutilName">
+            @Html.LabelFor(model => model.NomOutil, htmlAttributes: new { @class = "control-label" })
+            <div class=" OutilNameInput">
                 @Html.EditorFor(model => model.NomOutil, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.NomOutil, "", new { @class = "text-danger" })
             </div>
         </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.VersionOutil, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.VersionOutil, new { htmlAttributes = new { @class = "form-control" } })
+        <div class=" versionName">
+            @Html.LabelFor(model => model.VersionOutil, htmlAttributes: new { @class = "control-label " })
+            <div class="versionInput">
+                @Html.EditorFor(model => model.VersionOutil, new { htmlAttributes = new { @class = "form-control",placeholder = "Version de l'outil (X.X.X)" } })
                 @Html.ValidationMessageFor(model => model.VersionOutil, "", new { @class = "text-danger" })
             </div>
         </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.DateMaj, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.DateMaj, new { htmlAttributes = new { @class = "form-control" } })
+        <div class=" dateOutil">
+            @Html.LabelFor(model => model.DateMaj, htmlAttributes: new { @class = "control-label " })
+            <div class="DateInput ">
+                @Html.EditorFor(model => model.DateMaj, new { htmlAttributes = new { @class = "form-control", type = "date", } })
                 @Html.ValidationMessageFor(model => model.DateMaj, "", new { @class = "text-danger" })
             </div>
         </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.état, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.état, new { htmlAttributes = new { @class = "form-control" } })
+        <div class=" stateTool">
+            @Html.LabelFor(model => model.état, htmlAttributes: new { @class = "control-label " })
+            <div class=" stateInput">
+                @Html.EditorFor(model => model.état, new { htmlAttributes = new { @class = "form-control",placeholder = "en fonctionnement / maintenance", title = "en fonctionnement / maintenance" } })
                 @Html.ValidationMessageFor(model => model.état, "", new { @class = "text-danger" })
             </div>
         </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.Commentaire, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.Commentaire, new { htmlAttributes = new { @class = "form-control" } })
+        <div class=" CommentTool">
+            @Html.LabelFor(model => model.Commentaire, htmlAttributes: new { @class = "control-label " })
+            <div class=" CommentInput">
+                @Html.EditorFor(model => model.Commentaire, new { htmlAttributes = new { @class = "form-control", placeholder = "commentaire = 300 charactère" } })
                 @Html.ValidationMessageFor(model => model.Commentaire, "", new { @class = "text-danger" })
             </div>
         </div>
 
-        <div class="form-group">
-            <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Create" class="btn btn-default" />
+        <div class="form-group submitArea">
+            <div class="ReturnButton">
+                <a>test</a>
+            </div>
+            <div class="SubmitButton">
+                <input type="submit" value="Create" class="btn btn-primary submitButton"/>
             </div>
         </div>
     </div>
 }
 
-<div>
+<div >
     @Html.ActionLink("Back to List", "Index")
 </div>
