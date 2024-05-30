@@ -26,5 +26,7 @@ namespace ToolClientOutil.Controllers
 
 			return View();
 		}
+
+		
 	}
 }

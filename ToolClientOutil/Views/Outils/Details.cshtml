@@ -1,0 +1,58 @@
+﻿@model Tool.Data.Outil
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Outil</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomOutil)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomOutil)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VersionOutil)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VersionOutil)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateMaj)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateMaj)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.état)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.état)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Commentaire)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Commentaire)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdOutil }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
