@@ -1,0 +1,16 @@
+﻿.header{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.MainSubject{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:2%;
+
+}
+.card {
+    margin-left: 2%;
+    margin-right: 2%;
+}

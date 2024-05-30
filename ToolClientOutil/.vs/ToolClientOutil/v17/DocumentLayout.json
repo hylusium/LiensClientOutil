@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\content\\clientstyleview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:content\\clientstyleview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\views\\account\\viewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\account\\viewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\home\\oldlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\oldlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\theforgottens\\nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\theforgottens\\nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,22 +71,7 @@
       "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\toolclientoutil\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89FF1A4C-77B6-42CD-AC5D-2DEE34BC264E}|..\\Tool.Data\\Tool.Data.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\tool.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89FF1A4C-77B6-42CD-AC5D-2DEE34BC264E}|..\\Tool.Data\\Tool.Data.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetc#lienscliensoutil\\tool.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9704CFE8-6C85-4CDB-8CE9-05F81F8B0FA5}|ToolClientOutil.csproj|C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,90 +84,90 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 114,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 161,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T11:47:36.819Z",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwFQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:27:48.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T07:34:06.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T07:38:22.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminsController.cs",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\AdminsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\AdminsController.cs",
-              "RelativeToolTip": "Controllers\\AdminsController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAA0wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T11:16:44.575Z",
+              "Title": "ClientStyleView.css",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Content\\ClientStyleView.css",
+              "RelativeDocumentMoniker": "Content\\ClientStyleView.css",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Content\\ClientStyleView.css",
+              "RelativeToolTip": "Content\\ClientStyleView.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-30T06:21:54.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:35:36.318Z",
+              "Title": "ViewClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Account\\ViewClient.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ViewClient.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Account\\ViewClient.cshtml",
+              "RelativeToolTip": "Views\\Account\\ViewClient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T06:20:33.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T07:34:51.158Z",
+              "WhenOpened": "2024-04-18T07:38:49.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T12:44:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:54:00.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
@@ -163,46 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Global.asax.cs",
-              "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:36:05.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
               "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEUAAAAWAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-18T07:35:59.564Z",
+              "WhenOpened": "2024-05-24T12:54:18.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T07:34:59.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
@@ -215,20 +206,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T07:38:49.286Z",
+              "WhenOpened": "2024-04-24T10:38:19.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:35:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:16:44.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OldLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\OldLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OldLogin.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\OldLogin.cshtml",
+              "RelativeToolTip": "Views\\Home\\OldLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T11:47:36.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nav.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\TheForgottens\\Nav.cshtml",
+              "RelativeDocumentMoniker": "Views\\TheForgottens\\Nav.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\TheForgottens\\Nav.cshtml",
+              "RelativeToolTip": "Views\\TheForgottens\\Nav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:43:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:38:22.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:34:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:36:05.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:34:59.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\Tool.Data\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Tool.Data\\Class1.cs",
@@ -237,38 +332,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T10:53:57.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.Config",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\Tool.Data\\App.Config",
-              "RelativeDocumentMoniker": "..\\Tool.Data\\App.Config",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\Tool.Data\\App.Config",
-              "RelativeToolTip": "..\\Tool.Data\\App.Config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-18T10:57:07.54Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 114,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Content\\Login.css",
-              "RelativeDocumentMoniker": "Content\\Login.css",
-              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetC#LiensCliensOutil\\ToolClientOutil\\Content\\Login.css",
-              "RelativeToolTip": "Content\\Login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-18T13:25:42.481Z",
               "EditorCaption": ""
             }
           ]

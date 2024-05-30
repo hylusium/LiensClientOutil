@@ -1,4 +1,8 @@
 ﻿
+body {
+    overflow-y: hidden;
+}
+
 .container.body-content {
     display: flex;
     justify-content: center;
@@ -6,11 +10,95 @@
     flex-direction: column
 }
 
-.MainContainer{
-    display:flex;
-    justify-content:center;
-    align-items:center;
+.form-horizontal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     border: 2px solid black;
-    width:400px;
     border-radius: 16px;
+    border: 2px solid black;
+    margin-left: 50%;
+    width: 800px;
+    height: 600px;
+    margin-top: 10%;
 }
+
+.form-group {
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.col-md-10 {
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    min-width: auto;
+    margin-bottom: 5%
+}
+
+.form-control .text-box .single-line input[type=text]:focus {
+    outline: none;
+    background-color: rgb(219,219,219);
+    backdrop-filter: blur(30px);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-color:none;
+    border:none;
+}
+
+.form-control {
+    outline: none;
+    border: none;
+}
+
+    .form-control:focus {
+        outline: none;
+        border: none;
+        border-color: none;
+    }
+
+input {
+    max-width: 100%;
+}
+
+
+.PasswordInput {
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    min-width: 500px;
+    margin-bottom: 5%
+}
+
+    .PasswordInput:focus {
+        outline: none;
+        background-color: rgb(219,219,219);
+        backdrop-filter: blur(30px);
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+.optionnalLogin {
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+}
+
+.SubmitConnect {
+    margin-right: 2%;
+}
+
+    .SubmitConnect input[type=submit] {
+        border: 2px solid black;
+        border-radius: 16px;
+    }
